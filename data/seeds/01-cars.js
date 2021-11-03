@@ -1,38 +1,38 @@
 const cars = [
     {
-        vin: '86529635656235623',
-        make: 'Honda',
-        model: 'CR-V',
+        vin: '1JCMR7841JT185472',
+        make: 'Jeep',
+        model: 'Cherokee',
         mileage: 892230,
         title: 'clean',
         transmission: 'automatic'
     },
     {
-        vin: '86529635656235624',
-        make: 'Ferrari',
-        model: 'CR-x',
+        vin: 'JH4CC2660RC002031',
+        make: 'Acura',
+        model: 'Vigor',
         mileage: 892230,
         title: 'clean',
         transmission: 'automatic'
     },
     {
-        vin: '86529635656235625',
-        make: 'Merc',
-        model: 'CR-y',
+        vin: 'TRUSC28N341016582',
+        make: 'Audi',
+        model: 'TT',
         mileage: 892230,
         title: 'clean',
         transmission: 'automatic'
     },
     {
-        vin: '86529635656235626',
-        make: 'Lambo',
-        model: 'CR-z',
+        vin: 'WP1AC29P65LA91996',
+        make: 'Porche',
+        model: 'Cayenne',
         mileage: 892230,
         transmission: 'automatic'
     },
     {
-        vin: '86529635656235627',
-        make: 'Bentley',
+        vin: 'JYAVP18E07A005321',
+        make: 'Yamaha',
         model: 'FakeCR-A',
         mileage: 892230,
         title: 'salvage'
